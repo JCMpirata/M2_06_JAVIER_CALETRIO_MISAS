@@ -1,3 +1,4 @@
+#Ejercicio 3
 #Creo la funcion imc, en la que pido al usuario su peso y altura en cm. Automaticamente se calcula el imc con la formula correspondiente, y dependiendo del imc obtenido se imprimira el estado fisico del usuario gracias al condicional.
 def imc(peso, alturaEnMetros):
     peso = float(input("Introduzca su peso en Kg: "))
