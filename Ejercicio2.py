@@ -13,6 +13,8 @@ def mayor():
   numeros.sort(reverse = True)
   return numeros
 
+print(mayor())
+
   
   
 
